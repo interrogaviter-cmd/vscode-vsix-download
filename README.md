@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VS Code 插件离线下载
 
 统一使用 `download_vscode_extensions.py`，插件配置集中在 `extension_catalog.py`。
@@ -126,3 +127,7 @@ python -m unittest discover -s tests -v
 ```
 
 测试使用构造的 VSIX 和模拟 HTTP，不会下载真实插件或调用本地 VS Code 安装命令。
+=======
+# vscode-vsix-download
+download vsix for vscode
+>>>>>>> d698bb27257cde01a7e6014bdee7f4c1b88bac29
